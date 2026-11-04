@@ -29,14 +29,19 @@ $$V(t) = L \frac{di}{dt}$$
 ## 📸 Process & Hardware Gallery
 
 ### 1. Measurement in Progress
-<Image src="docs/test/test_in_action.jpg" alt="Inductance meter connected to test setup during measurement" caption="Live measurement in progress on the bench" />
+<a href="images/measurement_setup.jpg" target="_blank">
+  <img src="images/measurement_setup.jpg" alt="Live measurement in progress on the bench" width="300px" />
+</a>
 
 ### 2. Device Under Test (DUT)
-<Image src="docs/test/inductor_test.jpg" alt="Close-up of the measured inductor component" caption="Sample inductor used for testing" />
+<a href="images/test_inductor.jpg" alt="Sample inductor used for testing">
+  <img src="images/test_inductor.jpg" alt="Sample inductor used for testing" width="300px" />
+</a>
 
 ### 3. Oscilloscope Waveform Capture
-<Image src="docs/waves/wave_2.jpg" alt="Oscilloscope display showing transient voltage and current waveform" caption="Transient voltage and current waveform capture" />
-
+<a href="images/oscilloscope_wave.png" target="_blank">
+  <img src="images/oscilloscope_wave.png" alt="Transient voltage and current waveform capture" width="300px" />
+</a>
 ---
 ## 📂 Repository Structure
 
