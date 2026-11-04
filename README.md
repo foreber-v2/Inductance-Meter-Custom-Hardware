@@ -42,7 +42,10 @@ $$V(t) = L \frac{di}{dt}$$
 <a href="docs/waves/wave_2.jpg" target="_blank">
   <img src="docs/waves/wave_2.jpg" alt="Transient voltage and current waveform capture" width="300px" />
 </a>
+
 ---
+
+
 ## 📂 Repository Structure
 
 ```text
