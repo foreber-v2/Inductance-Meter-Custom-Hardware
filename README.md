@@ -24,6 +24,7 @@ $$V(t) = L \frac{di}{dt}$$
 3. **Calculation:** Using the supplied voltage and the rate of change of current ($\frac{di}{dt}$), the inductance ($L$) is derived directly from the transient response curve.
 
 ---
+## kicad and firmaware files Coming Soon
 
 ## 📸 Process & Hardware Gallery
 
