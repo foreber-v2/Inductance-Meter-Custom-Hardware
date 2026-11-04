@@ -37,3 +37,10 @@ $$V(t) = L \frac{di}{dt}$$
 <Image src="docs/waves/wave_2.jpg" alt="Oscilloscope display showing transient voltage and current waveform" caption="Transient voltage and current waveform capture" />
 
 ---
+## 📂 Repository Structure
+
+```text
+├── docs/             # Schematics, notes, and references (name swapped hehe)
+├── images/           # Photos of CNC milling, assembled PCB, and oscilloscope waveforms (name swapped hehe)
+├── kicad/            # (Coming Soon) KiCad project files
+└── firmware/         # (Coming Soon) MCU code for automated reading
