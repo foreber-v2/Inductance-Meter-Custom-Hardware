@@ -7,9 +7,9 @@ A custom DIY inductance meter built using a CNC-milled PCB, designed to measure 
 
 ## 🛠️ Inspirations & References
 
-This project draws inspiration and conceptual grounding from:
-* **[Ludens.cl - LC Meter Design](https://ludens.cl/Electron/lmeter/lmeter.html)** by Ludger Carp: Classic discrete electronic instrumentation and pulse generation.
-* **[Hyperspace Pirate - Inductor Tester YouTube Build](https://www.youtube.com/watch?v=IRRF1FadkFw)**: Transistor latch switching and robust pulse-drive stages.
+This project is built upon foundational concepts and schematics adapted from classic discrete designs. The hardware merges elements from both sources, customized and optimized with original modifications:
+* **[Ludens.cl - Power inductor tester](https://ludens.cl/Electron/lmeter/lmeter.html)** 
+* **[Hyperspace Pirate - Inductor Tester YouTube Build](https://www.youtube.com/watch?v=IRRF1FadkFw)**
 
 ---
 
